@@ -20,7 +20,7 @@ If you're using [oh-my-zsh](https://gitub.com/robbyrussell/oh-my-zsh), install t
 2. Clone the plugin
 ```bash
   git clone https://github.com/luismayta/zsh-docker-compose-aliases
-```bash
+```
 3. Edit your `.zshrc` and add `plugins=( ... zsh-docker-compose-aliases )` to your list of plugins
 4. Open a new terminal and enjoy!
 
