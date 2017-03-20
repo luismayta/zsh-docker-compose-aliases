@@ -1,11 +1,9 @@
 # Plugin Zsh zsh-docker-compose-aliases
 
-<span class="badges" align="center">
 [![Build Status](https://travis-ci.org/luismayta/zsh-docker-compose-aliases.svg)](https://travis-ci.org/luismayta/zsh-docker-compose-aliases)
 [![Stories in Ready](https://badge.waffle.io/luismayta/zsh-docker-compose-aliases.svg?label=ready&title=Ready)](http://waffle.io/luismayta/zsh-docker-compose-aliases)
 [![GitHub issues](https://img.shields.io/github/issues/luismayta/zsh-docker-compose-aliases.svg)](https://github.com/luismayta/zsh-docker-compose-aliases/issues)
 [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square)](LICENSE)
-</span>
 
 
 ZSH plugin
@@ -48,8 +46,6 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 ## Credits
 
 Made with love :heart: by dgnest
-
-<!-- Other -->
 
 [link-author]: https://github.com/luismayta
 [link-contributors]: contributors
