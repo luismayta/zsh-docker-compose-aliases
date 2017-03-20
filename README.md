@@ -30,6 +30,13 @@ If you're using [Antigen](https://github.com/zsh-lovers/antigen), install this p
 2. Either open a new terminal to force zsh to load the new plugin, or run `antigen bundle luismayta/zsh-docker-compose-aliases` in a running zsh session.
 3. Enjoy!
 
+## Functions
+
+This method find one file in path docker-compose and execute the others args
+
+``bash
+  dc dev.yml run --rm web bash
+``
 
 ## License
 
