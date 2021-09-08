@@ -1,1 +1,2 @@
 docker-compose==1.10.0
+pyyaml>=4.2b1 # not directly required, pinned by Snyk to avoid a vulnerability
